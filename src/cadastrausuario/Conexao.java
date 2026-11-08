@@ -12,7 +12,7 @@ public class Conexao {
     public Statement stmt = null;
     public ResultSet resultset = null;
 
-    private final String servidor = "jdbc:mysql://127.0.0.1:3306/bd_lojajogo";
+    private final String servidor = "jdbc:mysql://127.0.0.1:3306/bd_cadastrausuario";
     private final String usuario = "root";
     private final String senha = "root";
     private final String driver = "com.mysql.cj.jdbc.Driver";

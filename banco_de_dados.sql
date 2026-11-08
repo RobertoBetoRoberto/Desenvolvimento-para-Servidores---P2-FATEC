@@ -1,8 +1,8 @@
 -- CRIAÇÃO DO BANCO DE DADOS DA LOJA
-CREATE DATABASE bd_lojajogo;
+CREATE DATABASE bd_cadastrausuario;
 
 -- SELECIONANDO O BANCO DE DADOS
-USE bd_lojajogo;
+USE bd_cadastrausuario;
 
 -- CRIANDO A TABELA DE USUÁRIO
 CREATE TABLE usuario (
